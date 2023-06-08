@@ -3,7 +3,7 @@
 
 
 
-## Acknowledgements
+## Setup
 
  - go to directory
  - composer install
